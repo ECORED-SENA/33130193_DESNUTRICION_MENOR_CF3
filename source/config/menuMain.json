@@ -1,0 +1,65 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 0,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-0",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","tema 0"],
+    "path": "pages/tema-0.html"
+  },  
+  {
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. La desnutrición: formas, fisiopatología, diagnóstico y tratamiento",
+    "breadcrumb": ["Inicio","tema 1"],
+    "path": "pages/tema-1.html",
+    "anchor": "tema-1"
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-2",
+    "title": "2. Manejo de niños y niñas de 0 a 6 meses de edad con desnutrición aguda moderada y severa",
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1. Manejo intrahospitalario en niños y niñas de 0 a 6 meses de edad",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2. Manejo ambulatorio para niños y niñas de 0 a 6 meses de edad",
+        "anchor": "tema-22"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "tema-3",
+    "title": "3. Manejo de niños de 6 a 59 meses de edad con desnutrición aguda moderada y severa",
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.1. Manejo intrahospitalario en niños de 6 a 59 meses de edad",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.2. Manejo ambulatorio para niños y niñas de 6 a 59 meses de edad",
+        "anchor": "tema-32"
+      }
+    ]
+  }     
+]

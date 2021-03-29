@@ -1,0 +1,39 @@
+.nav-tab-ecored {
+    .tab-content {
+        border-top:none;
+        padding: 2rem;
+    }
+
+    .nav-tabs {
+    }
+
+    .nav-tabs .nav-item {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 1rem 0;
+        border-bottom: 5px solid #E0E0E0;
+        border-left-width: 0;
+        border-right-width: 0;
+        border-top-width: 0;
+        padding-left: 24px;
+        padding-right: 24px;
+
+        @media screen and (max-width:$breakpoint-small) {
+            width: 100%;
+        }
+    }
+
+    .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+        border-color: #ED8730;
+        border-bottom: 5px solid;
+        color: #ED8730;
+    }
+
+    .nav-tabs .nav-link:not(.active) {
+        color: #00223D;
+        margin: 0px;
+    }
+}
