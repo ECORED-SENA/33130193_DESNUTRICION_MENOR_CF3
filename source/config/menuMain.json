@@ -7,7 +7,7 @@
   },
   {
     "id": 0,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "tema-0",
     "title": "Introducción",
     "breadcrumb": ["Inicio","tema 0"],
@@ -15,12 +15,11 @@
   },  
   {
     "id": 1,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "tema-1",
     "title": "1. La desnutrición: formas, fisiopatología, diagnóstico y tratamiento",
     "breadcrumb": ["Inicio","tema 1"],
-    "path": "pages/tema-1.html",
-    "anchor": "tema-1"
+    "path": "pages/tema-1.html"
   }, 
   {
     "icon": "fa fa-file-text-o",
