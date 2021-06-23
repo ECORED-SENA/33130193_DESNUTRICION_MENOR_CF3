@@ -50,13 +50,13 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.1. Manejo intrahospitalario en niños de 6 a 59 meses de edad",
+        "title": "3.1. Manejo ambulatorio para niños y niñas de 6 a 59 meses de edad",
         "anchor": "tema-31"
-      },
+      },      
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.2. Manejo ambulatorio para niños y niñas de 6 a 59 meses de edad",
+        "title": "3.2. Manejo intrahospitalario en niños de 6 a 59 meses de edad",
         "anchor": "tema-32"
       }
     ]
